@@ -1,0 +1,2 @@
+class Falt < ApplicationRecord
+end
