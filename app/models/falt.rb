@@ -1,2 +1,0 @@
-class Falt < ApplicationRecord
-end
